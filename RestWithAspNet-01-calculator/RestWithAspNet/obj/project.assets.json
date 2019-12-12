@@ -12096,11 +12096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorge Strobel\\cursos\\rest-asp-net\\RestWithAspNet-Udemy\\RestWithAspNet\\RestWithAspNet\\RestWithAspNet.csproj",
+      "projectUniqueName": "C:\\Users\\Jorge Strobel\\cursos\\rest-asp-net\\RestWithAspNet-Udemy\\RestWithAspNet-01-calculator\\RestWithAspNet\\RestWithAspNet.csproj",
       "projectName": "RestWithAspNet",
-      "projectPath": "C:\\Users\\Jorge Strobel\\cursos\\rest-asp-net\\RestWithAspNet-Udemy\\RestWithAspNet\\RestWithAspNet\\RestWithAspNet.csproj",
+      "projectPath": "C:\\Users\\Jorge Strobel\\cursos\\rest-asp-net\\RestWithAspNet-Udemy\\RestWithAspNet-01-calculator\\RestWithAspNet\\RestWithAspNet.csproj",
       "packagesPath": "C:\\Users\\Jorge Strobel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge Strobel\\cursos\\rest-asp-net\\RestWithAspNet-Udemy\\RestWithAspNet\\RestWithAspNet\\obj\\",
+      "outputPath": "C:\\Users\\Jorge Strobel\\cursos\\rest-asp-net\\RestWithAspNet-Udemy\\RestWithAspNet-01-calculator\\RestWithAspNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

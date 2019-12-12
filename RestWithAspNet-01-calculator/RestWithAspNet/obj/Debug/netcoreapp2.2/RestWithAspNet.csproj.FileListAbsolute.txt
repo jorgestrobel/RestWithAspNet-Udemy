@@ -12,3 +12,17 @@ C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet\R
 C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.RazorTargetAssemblyInfo.cache
 C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.dll
 C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.pdb
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\bin\Debug\netcoreapp2.2\RestWithAspNet.deps.json
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\bin\Debug\netcoreapp2.2\RestWithAspNet.runtimeconfig.json
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\bin\Debug\netcoreapp2.2\RestWithAspNet.runtimeconfig.dev.json
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\bin\Debug\netcoreapp2.2\RestWithAspNet.dll
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\bin\Debug\netcoreapp2.2\RestWithAspNet.pdb
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.csprojAssemblyReference.cache
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.RazorAssemblyInfo.cache
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.RazorAssemblyInfo.cs
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.AssemblyInfoInputs.cache
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.AssemblyInfo.cs
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.RazorTargetAssemblyInfo.cache
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.dll
+C:\Users\Jorge Strobel\cursos\rest-asp-net\RestWithAspNet-Udemy\RestWithAspNet-01-calculator\RestWithAspNet\obj\Debug\netcoreapp2.2\RestWithAspNet.pdb
