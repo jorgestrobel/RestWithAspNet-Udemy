@@ -36,6 +36,18 @@ namespace RestWithAspNet.Controllers
             return BadRequest("Invalid Input");
         }
 
+        // GET api/calculator/subtraction/5/5
+        [HttpGet("multiplication/{firstNumber}/{secondNumber}")]
+        public IActionResult Multiplication(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = ConvertToDecimal(firstNumber) * ConvertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
         private decimal ConvertToDecimal(string firstNumber)
         {
             decimal decValue;
