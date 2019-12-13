@@ -7,7 +7,7 @@ using RestWithAspNet.Model;
 
 namespace RestWithAspNet.Services.Impl
 {
-    public class PersonService : IPersonService
+    public class PersonServiceImpl : IPersonService
     {
         //volatile garante que toda vez que a aplicacao rodar o count vai ser reinicializado
         private volatile int count;
@@ -57,6 +57,8 @@ namespace RestWithAspNet.Services.Impl
 
         public Person Update(Person person)
         {
+            person.FirstName = "Jorge";
+            person.LastName = "Renato";
            return person;
         }
     }
